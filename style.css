@@ -1,0 +1,44 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color: #17d3ff;
+   
+  
+}
+
+
+
+
+.question1{
+  text-align: center;
+}
+.questions2{
+  text-align: center;
+}
+.result{
+  text-align: center;
+}
+
+.submit{
+  text-align: center;
+}
+
+.img{
+  text-align: center;
+  display:none;
+}
+
+.img2{
+  text-align:center;
+  display:none
+}
+.img3{
+  text-align: center;
+  display:none;
+}
+
+.img4{
+  text-align: center;
+  display:none;
+}
